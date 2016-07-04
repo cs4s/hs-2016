@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: UoN CS4S 2016
+email: daniel.hickmott@uon.edu.au
+contact: Daniel Hickmott
+baseurl: "/hs-2016"
+
+resources_path: "/resources"
+
+day1_path: "/day1/"
+scratch_path: "/day1/visualprogramming/"
+ct_path: "/day1/computationalthinking/"
+unplugged_path: "/day1/csunplugged/"
+robotics_path: "/day1/robotics/"
+
+day2_path: "/day2/"
+sonicpi_path: "/day2/sonicpi/"
+datascience_path: "/day2/datascience/"
+appinventor_path: "/day2/appinventor/"
+
+# Build settings
+markdown: kramdown
