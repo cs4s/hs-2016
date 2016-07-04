@@ -12,7 +12,7 @@ For some examples of apps that students have developed, see [this website](http:
 # Activities
 
 There are 4 activities to complete in this session.
-If you complete all of this activities or have completed them at previous workshops, please see [this website](http://appinventor.mit.edu/explore/resources.html){:target="_blank"} for some extra activities.
+If you complete all of these activities or have completed them at previous workshops, please see [this website](http://appinventor.mit.edu/explore/resources.html){:target="_blank"} for some extra activities.
 If you have any questions about making your own app or any of the features, please let us know.
 
 ## Connecting the Tablet
