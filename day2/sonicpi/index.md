@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS4HS @ UON 2016 - Day 1 - General-Purpose Programming
+title: CS4HS @ UON 2016 - Day 2 - General-Purpose Programming
 ---
 
 # An Introduction to General-Purpose Programming
