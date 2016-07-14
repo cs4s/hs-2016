@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS4S HS - Introduction to General-Purpose Programming
+title: CS4HS @ UON 2016 - Day 1 - General-Purpose Programming
 ---
 
 # An Introduction to General-Purpose Programming
@@ -34,14 +34,14 @@ Sonic Pi is a program that allows you to write music with code.
 Like Scratch, it's easy to get started with this tool, but you can also write quite complex programs (compositions) using it.
 
 Sonic Pi was created by a Computer Science researcher, [Dr Sam Aaron](http://sam.aaron.name/){:target="_blank"}.
-Dr Aaron also worked with educators to develop lesson plans for Sonic Pi that map to the UK's Computing curriculum (the equivalent of Australia's Digital Technologies curriculum).
+Dr Aaron also worked with educators to develop lesson plans for Sonic Pi (see the *Links* section below) that map to the UK's Computing curriculum (the equivalent of Australia's Digital Technologies curriculum).
 
 ## Activities
 
 - [An Introduction to General-Purpose Programming (Word document)](introduction_programming_activity.docx)
 
 If you complete this activity, you may be interested in exploring some of the programming resources in the next section.
-You could also try building a musical instrument (for example a piano, guitar or drum kit), using Makey Makey and Scratch.
+You could also try building a musical instrument (for example a piano, guitar or drum kit), using a MaKey MaKey and Scratch.
 
 ## Programming Resources
 
