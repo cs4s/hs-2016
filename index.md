@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS4HS @ UON 2016
+title: CS4HS @ UON 2016 - Home
 ---
 
 # High School Workshop
