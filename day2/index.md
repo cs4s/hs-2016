@@ -20,7 +20,7 @@ The rest of the sessions will be held in the Hunter Building, in **HC47** (a com
 |-|-
 | **9:00am - 10:30am** | **Visit to Hunter Medical Research Institute** | **HMRI** |
 | 10:30am - 10:45am | Morning Tea | HA96 |
-| **10:45am - 11:15am** | **Computer Science and Software Engineering Presentation** | **HA96** | 
+| **10:45am - 11:15am** | **Computer Science and Software Engineering @ UON Presentation** | **HA96** | 
 | **11:15am - 11:45am** | **UAVAir - Training and Future Careers Presentation** | **HA96** | 
 | **11:45am - 12:00am** | **The ME Program - STEM Education Presentation** | **HA96** | 
 | 12:00 noon - 12:30pm | Lunch | HA96 |
