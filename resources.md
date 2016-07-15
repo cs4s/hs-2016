@@ -6,7 +6,7 @@ permalink: /resources
 
 # Resources
 
-If you are interested in finding out more about Computer Science and the Digital Technologies curriculum we have provided some resources for you to explore.
+If you are interested in finding out more about Computer Science and the Digital Technologies curriculum, we have provided some resources for you to explore.
 
 ## Websites
 
