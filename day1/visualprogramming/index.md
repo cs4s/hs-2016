@@ -8,7 +8,7 @@ title: CS4HS @ UON 2016 - Day 1 - Visual Programming & Physical Computing
 In this session we will work through some hands-on activities using Scratch and Makey Makeys. 
 These activities combine Visual Programming & Physical Computing concepts.
 
-[Visual Programming & Physical Computing (Powerpoint Presentation)]()
+[Visual Programming & Physical Computing (Powerpoint Presentation)](visualprogramming_presentation.pptx)
 
 ## Visual Programming
 
