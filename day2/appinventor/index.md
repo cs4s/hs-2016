@@ -11,7 +11,7 @@ AppInventor is an online tool for creating Android apps, using Visual Programmin
 It has been used in K-12 and University education to teach Computer Science and Programming concepts. 
 For some examples of apps that students have developed, see [this website](http://appinventor.mit.edu/explore/stories.html){:target="_blank"}.
 
-[Building Mobile Apps, with AppInventor (Powerpoint presentation)]()
+[Building Mobile Apps, with AppInventor (Powerpoint presentation)](appinventor_presentation.pptx)
 
 ## Activities
 
