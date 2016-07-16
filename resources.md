@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: CS4HS @ UON 2016 - Resources
 permalink: /resources
 ---
 
