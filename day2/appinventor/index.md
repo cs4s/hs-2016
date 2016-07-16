@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AppInventor Session
+title: CS4HS @ UON 2016 - Day 2 - Building Mobile Apps
 ---
 
 # Building Mobile Apps, with AppInventor
