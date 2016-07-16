@@ -9,7 +9,7 @@ In this session we will do a hands-on activity with Sonic Pi.
 Sonic Pi is a tool for writing music with Ruby (a text-based general-purpose programming language).
 This activity will introduce some core programming concepts: *sequencing*, *loops* and *selection*.
 
-[An Introduction to General-Purpose Programming, with Sonic Pi (Powerpoint Presentation)]()
+[An Introduction to General-Purpose Programming, with Sonic Pi (Powerpoint Presentation)](programming_presentation.pptx)
 
 ## Learning to Program
 
