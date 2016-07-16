@@ -15,7 +15,7 @@ The activities, presentations and meals will take place in rooms around the Hunt
 | Time | Session | Location |
 |-|-
 | **9:30am - 9:45am** | **Computational Thinking & Computer Science Presentation** | **HC47** |
-| **9:45am - 10:45am** | **Computer Science without a Computer Activity** | **HC47** |
+| **9:45am - 10:45am** | [**Computer Science without a Computer Activity**]( {{ site.baseurl | append: site.unplugged_path }}) | **HC47** |
 | 10:45am - 11:00am | Morning Tea | HA96 |
 | **11:00am - 12:30pm** | [**Visual Programming and Physical Computing Activity**]( {{ site.baseurl | append: site.scratch_path }}) | **HC47** |
 | 12:30pm - 1:00pm | Lunch | HA96 |
