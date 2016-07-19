@@ -28,7 +28,7 @@ If you have any questions about making your own app or any of the different feat
 
 ### Magic 8-Ball
 - [Making Magic 8-Ball - Tutorial (Word document)](8Ball_activity.docx)
-- [Magic 8-Ball Resources (Zip)](8ball_resources.zip)
+- [Magic 8-Ball Resources (Zip)](8Ball_resources.zip)
 
 ### Pong
 - [Making Pong - Part 1 Tutorial (Word document)](Pong_activity_part1.docx)
