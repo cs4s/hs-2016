@@ -36,7 +36,7 @@ Like Scratch, it's easy to get started with this tool, but you can also write qu
 Sonic Pi was created by a Computer Science researcher, [Dr Sam Aaron](http://sam.aaron.name/){:target="_blank"}.
 Dr Aaron also worked with educators to develop lesson plans for Sonic Pi (see the *Links* section below) that map to the UK's Computing curriculum (the equivalent of Australia's Digital Technologies curriculum).
 
-## Activities
+## Activity
 
 - [An Introduction to General-Purpose Programming (Word document)](introduction_programming_activity.docx)
 
