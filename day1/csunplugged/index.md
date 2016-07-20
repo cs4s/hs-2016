@@ -10,9 +10,10 @@ Computational thinking and algorithmic thinking are at the core of CS and many o
 The activities in this session are designed for ‘rainy days’ when things may go wrong and computers are not available.
 The concepts covered in these activities, however, are fundamental for the high end of program design.
 
-## Activities
+## Files
 
-- [Computer Science Unplugged Activities (PDF Presentation)](CSUnplugged_activity.pdf)
+- [Computer Science Unplugged Presentation (PDF Presentation)](CSUnplugged_activity.pdf){:target="_blank"}
+- [Computer Science Unplugged Handout (Powerpoint Presentation](CSUnplugged_handout.pptx)
 
 ## Links
 
