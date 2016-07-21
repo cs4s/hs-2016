@@ -5,10 +5,6 @@ title: CS4HS @ UON 2016 - Day 1
 
 # Day 1
 
-## Location
-
-The activities, presentations and meals will take place in rooms around the Hunter building: **HC47** (a computer lab) and **HA96** (a seminar room).
-
 ## Schedule
 
 |---

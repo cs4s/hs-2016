@@ -5,14 +5,6 @@ title:  CS4HS @ UON 2016 - Day 2
 
 # Day 2
 
-## Location
-
-In the morning we will meet at 9am near the Griffith Duncan Theatre, outside of the Hunter building.
-From here we will get a bus to HMRI, where we will see a presentation from researchers working in Bionformatics.
-We will return to the Hunter building at 10:30am for Morning Tea.
-
-The rest of the sessions will be held in the Hunter Building, in **HC47** (a computer lab) and **HA96** (a seminar room).
-
 ## Schedule
 
 |---
