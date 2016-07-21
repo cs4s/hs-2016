@@ -19,6 +19,7 @@ The activities, presentations and meals will take place in rooms around the Hunt
 | 10:45am - 11:00am | Morning Tea | HA96 |
 | **11:00am - 12:30pm** | [**Visual Programming and Physical Computing Activity**]( {{ site.baseurl | append: site.scratch_path }}) | **HC47** |
 | 12:30pm - 1:00pm | Lunch | HA96 |
+| **1:00pm - 1:30pm** | [**The Secrets of Computer Science for Girls (Powerpoint presentation)**](peggy_presentation.pptx) | **HA96** |
 | **1:30pm - 2:15pm** | **Robotics Activity - Part 1** | **HC47** |
 | 2:15pm - 2:30pm | Afternoon Tea | HA96 |
 | **2:30pm - 3:30pm** | **Robotics Activity - Part 2** | **HC47** |
