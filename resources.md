@@ -13,6 +13,7 @@ If you are interested in finding out more about Computer Science and the Digital
 - [Computer Science Field Guide](http://csfieldguide.org.nz/)
 - [CS4FN: Computer Science 4 Fun](http://www.cs4fn.org/)
 - [Google's CS Education Resources](https://www.google.com/edu/cs/index.html)
+- [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/)
 
 ## Online Courses
 
