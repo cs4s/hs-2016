@@ -14,7 +14,7 @@ title:  CS4HS @ UON 2016 - Day 2
 | 10:30am - 10:45am | Morning Tea |
 | **10:45am - 11:15am** | [**UON Computer Science and Software Engineering (PDF Presentation)**](uoncsse_presentation.pdf){:target="_blank"} | 
 | **11:15am - 11:45am** | **UAVAir - Training and Future Careers Presentation** | 
-| **11:45am - 12:00am** | **The ME Program - STEM Education Presentation** | 
+| **11:45am - 12:00am** | [**The ME Program - STEM Education (Powerpoint Presentation)**](scott_presentation.pptx)| 
 | 12:00 noon - 12:30pm | Lunch |
 | **12:30pm - 2:00pm** | [**Session A: Introduction to Programming Activity**]({{ site.baseurl | append: site.sonicpi_path }}) |  
 | **12:30pm - 2:00pm** | [**Session B: Data Science in the Classroom Activity**]({{ site.baseurl | append: site.datascience_path }})  | 
